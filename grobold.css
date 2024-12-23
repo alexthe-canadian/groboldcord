@@ -1,4 +1,9 @@
-
+/**
+* @name groboldcord
+* @author alexthe-canadian
+* @version 1
+* @description epic theme for epic people
+*/
 ::placeholder, body, button, input, select, textarea {
 font-family: 'GROBOLD' ;
 }
