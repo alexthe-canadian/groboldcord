@@ -4,7 +4,7 @@
 * @version 1
 * @description epic theme for epic people
 */
-@import url(https://github.com/alexthe-canadian/groboldcord/raw/refs/heads/main/grobold.ttf);
+@import url(https://raw.githubusercontent.com/alexthe-canadian/groboldcord/refs/heads/main/grobold.ttf);
 ::placeholder, body, button, input, select, textarea {
 font-family: 'GROBOLD' ;
 }
